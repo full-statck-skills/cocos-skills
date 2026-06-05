@@ -1,0 +1,15 @@
+{
+  "name": "cocos-skills",
+  "version": "1.0.0",
+  "description": "Cocos2d-x game engine development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/cocos-skills",
+  "repository": "https://github.com/full-statck-skills/cocos-skills",
+  "source": "./",
+  "skills": [
+    "./skills/cocos2d-x"
+  ]
+}
